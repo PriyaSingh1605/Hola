@@ -32,6 +32,3 @@ It allows users to sign up, log in, manage profiles, and communicate instantly t
 **Database:**
 - MongoDB
 
----
-
-## 📁 Project Structure
